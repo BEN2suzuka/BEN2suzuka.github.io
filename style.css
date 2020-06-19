@@ -1,0 +1,32 @@
+body {
+  font-family: "Noto Sans JP", Meiryo, sans-serif;
+  color: #333;
+  line-height: 1.8;
+  background-color: #f4f5f7;
+  max-width: 1000px;
+  margin: auto;
+  padding: 0 20px;
+}
+
+header a, footer a {
+  color: #333;
+  text-decoration: none;
+}
+
+header a:hover, footer a:hover {
+  color: #333;
+  text-decoration: underline;
+}
+
+a {
+  color: #1967d2;
+}
+
+a:hover {
+  color: #21a3c4;
+}
+
+img { 
+  max-width: 100%; 
+  height: auto;
+}
